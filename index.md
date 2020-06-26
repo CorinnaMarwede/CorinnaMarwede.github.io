@@ -5,3 +5,4 @@ Harry Potter tritt dem mächtigsten dunklen Zauberer seiner Zeit gegenüber
 * schlau
 * ehrgeizig
 > Du bist der, der schwach ist. Du wirst nie wissen, was Liebe ist. Oder Freundschaft. Und deswegen kannst du mir nur leidtun.
+<img src="C:\Users\Paul\Desktop\potter.jpg"/>
